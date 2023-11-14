@@ -16,7 +16,7 @@ export function Logo() {
       >
         <Image src="/logo.svg" alt="Logo" height={30} width={30} />
         <p
-          className={cn('pt-1 text-lg text-neutral-700', headingFont.className)}
+          className={cn('pb-1 text-lg text-neutral-700', headingFont.className)}
         >
           Taskify
         </p>
